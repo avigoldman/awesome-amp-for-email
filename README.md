@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="359" height="205" src="logo.svg" alt="Awesome AMP for Email">
+	<img width="359" height="277" src="logo.svg" alt="Awesome AMP for Email">
 </div>
 
 <p align="center">
