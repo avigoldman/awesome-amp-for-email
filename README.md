@@ -1,9 +1,7 @@
 # awesome amp-for-email
 
 <p align="center">
-
-**Awesome resources and tools for AMP for Email ⚡💌**
-
+<b>Awesome resources and tools for AMP for Email ⚡💌</b>
 </p>
 
 <p align="center">
