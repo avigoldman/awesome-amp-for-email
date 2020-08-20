@@ -1,4 +1,6 @@
-# awesome amp-for-email
+<div align="center">
+	<img width="359" height="205" src="logo.svg" alt="Awesome AMP for Email">
+</div>
 
 <p align="center">
 <b>Awesome resources and tools for AMP for Email ⚡💌</b>
