@@ -52,6 +52,9 @@
 * [Tripolis](https://www.tripolis.com/)
 * [Twilio SendGrid](https://www.twilio.com/sendgrid)
 
+## Template Editors
+* [stripo](https://stripo.email/amp-support/)
+
 ## Developer Tools
 * [AMP boilerplate](https://amp.dev/boilerplate/)
 * [AMP Playground](https://playground.amp.dev/?runtime=amp4email)
