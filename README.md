@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+	<a href="https://github.com/ampproject/amphtml">GitHub</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://amp.dev/about/email/">Documentation</a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ampproject/wg-amp4email/">Working group</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877">Slack</a>&nbsp;&nbsp;&nbsp;
