@@ -73,5 +73,11 @@
 ## Examples
 * [SparkPost Scavenger Hunt](https://glitch.com/edit/#!/sparkpost-amp)
 
+
+## Talks and Interviews
+* https://www.youtube.com/watch?v=BFgC7WfbWjY&t=5s
+* https://www.zoho.com/blog/campaigns/amp-for-email.html
+* https://www.youtube.com/watch?v=hTd67bMGkNA
+
 ## Blog Posts
 * https://medium.com/better-marketing/interactive-forms-add-a-special-power-up-to-your-email-marketing-45d165bb6615
