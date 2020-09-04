@@ -71,6 +71,7 @@
 * https://github.com/leemunroe/amp-email-templates
 
 ## Examples
+* [Stripo Father's Day Newsletter](https://viewstripo.email/d5eb8daa-7a11-46be-8144-39665bca00161592565578462?type=amphtml)
 * [SparkPost Scavenger Hunt](https://glitch.com/edit/#!/sparkpost-amp)
 
 
