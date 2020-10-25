@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSdso95e7UDLk_R-bnpzsAmuUMDQEMUgTErcfGGItBDkghHU2A/viewform">Sender Registration Form</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://github.com/ampproject/amphtml">GitHub</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://amp.dev/about/email/">Documentation</a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ampproject/wg-amp4email/">Working group</a>&nbsp;&nbsp;&nbsp;
@@ -17,8 +18,7 @@
 ## Email Clients
 * [Gmail](https://developers.google.com/gmail/ampemail/)
 * [Mail.ru](https://postmaster.mail.ru/amp)
-* [Outlook.com](https://docs.microsoft.com/en-us/outlook/amphtml/)
-* [Verizon Media](https://blog.postmaster.verizonmedia.com/post/183699380323/amp-support-in-yahoo-mail)
+* [Verizon Media](https://developer.verizonmedia.com/mail/amp-for-email/)
 
 ## ESPs
 * [Adobe Campaign Classic](https://www.adobe.com/marketing/campaign.html)
