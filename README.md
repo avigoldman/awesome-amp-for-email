@@ -66,6 +66,7 @@
 * https://blog.mailtrap.io/amp-email/
 * https://www.sparkpost.com/docs/user-guide/amp-for-email/
 * https://email.uplers.com/infographics/google-amp-for-email/
+* https://www.emailmonday.com/amp-for-email-ideas-interactive-email/
 
 ## Templates
 * https://github.com/leemunroe/amp-email-templates
