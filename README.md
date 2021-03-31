@@ -85,4 +85,5 @@
 
 
 ## Blog Posts
-* https://medium.com/better-marketing/interactive-forms-add-a-special-power-up-to-your-email-marketing-45d165bb6615
+* [How to Extract AMP4email Markup from Gmail by Alice Li](https://alicelicode.medium.com/how-to-extract-amp4email-markup-from-gmail-8499b1958a31)
+* [How to Make Your Emails Feel Special With Interactive Forms By Dave Stys](https://medium.com/better-marketing/interactive-forms-add-a-special-power-up-to-your-email-marketing-45d165bb6615)
